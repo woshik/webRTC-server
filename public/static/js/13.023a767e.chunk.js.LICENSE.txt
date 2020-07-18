@@ -1,0 +1,15 @@
+/*! https://mths.be/punycode v1.4.1 by @mathias */
+
+/*! parse-torrent. MIT License. WebTorrent LLC <https://webtorrent.io/opensource> */
+
+/*! queue-microtask. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/*! render-media. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/*! simple-peer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/*! stream-to-blob-url. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/*! stream-to-blob. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/*! torrent-discovery. MIT License. WebTorrent LLC <https://webtorrent.io/opensource> */

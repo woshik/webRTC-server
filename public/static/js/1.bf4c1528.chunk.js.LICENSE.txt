@@ -1,0 +1,3 @@
+/*! create-torrent. MIT License. WebTorrent LLC <https://webtorrent.io/opensource> */
+
+/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
